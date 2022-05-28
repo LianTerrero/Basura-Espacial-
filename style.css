@@ -1,0 +1,74 @@
+img{
+width: 50%; 
+  height: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+}
+.titulo h1{
+  text-align: center;
+  color: blanchedalmond;
+  border: solid;
+  border-color: lightgoldenrodyellow;
+  background-color: slategray;
+  font-family: 'Lobster', cursive;
+  
+}
+.Contenido h5{
+  color: ghostwhite;
+  text-align: center;
+}
+
+.titulo h4{
+  color: gold;
+  text-align: center;
+}
+.titulo h2 {
+  text-align: center;
+}
+.Contenido h3{
+  color: lightskyblue; 
+}
+.Contenido{
+  border: solid;
+  border-color: lightyellow;
+  background-color: dimgray;
+  font-family: 'Zen Maru Gothic', sans-serif;
+}
+.Contenido p{
+  color: white;
+}
+body{
+  background-image: url("Earth.jpg");
+}
+nav{
+  background-color: forestgreen;
+  
+
+}
+.form{
+  color: ghostwhite;
+  border: solid;
+  border-color: steelblue; 
+  background-color: mediumseagreen;
+   font-family: 'Zen Maru Gothic', sans-serif;
+  
+}
+.Datos{
+  color: ghostwhite;
+}
+a{
+  color: lightskyblue;
+}
+
+.Mensaje {
+  height: 50px;
+  width: 150px; 
+}
+.Name {
+  width: 100%;
+  height: 50%;
+}
+
+}
